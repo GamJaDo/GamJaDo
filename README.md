@@ -1,7 +1,5 @@
 <p align="center" style="font-size:20">Hi there 👋 GamJaDo🥔</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   
   <br><br>
@@ -27,18 +25,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJaDo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+    <h2>👀 Follow Me 👀</h2>
+    <a href="https://www.instagram.com/structures_byungsoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+    <a href="mailto:ki0615157@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+    <br><br>
 <h2>𝘽𝘼𝙀𝙆𝙅𝙊𝙊𝙉</h2>
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqudtn0615)](https://solved.ac/rlaqudtn0615)
-
-<h2>👀 Follow Me 👀</h2>
-    <a href="https://www.instagram.com/structures_byungsoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-    <a href="mailto:ki0615157@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-    <br><br>
 
 </div>
 </div>
