@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋 GamJaDo🥔</p>
+<p align="center" style="font-size:20px;">Hi there 👋 GamJaDo🥔</p>
 
 <div align="center">
   
