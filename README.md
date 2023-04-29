@@ -1,7 +1,5 @@
 <p align="center" style="font-size:20">Hi there 👋 GamJaDo🥔</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   
   <br><br>
@@ -27,6 +25,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJaDo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
+
+
     <h2>👀 Follow Me 👀</h2>
     <a href="https://www.instagram.com/structures_byungsoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
     <a href="mailto:ki0615157@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
