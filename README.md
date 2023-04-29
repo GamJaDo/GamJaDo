@@ -1,5 +1,7 @@
 <p align="center" style="font-size:20">Hi there 👋 GamJaDo🥔</p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   
   <br><br>
@@ -34,6 +36,5 @@
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqudtn0615)](https://solved.ac/rlaqudtn0615)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 </div>
