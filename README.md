@@ -29,11 +29,11 @@
 <h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJaDo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]                 (https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJaDo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)           
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo&bg_color=FFFFFF&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]     (https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GamJaDo&bg_color=FFFFFF&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 </div>
   
 <h2>𝘽𝘼𝙀𝙆𝙅𝙊𝙊𝙉</h2>
