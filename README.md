@@ -33,7 +33,7 @@
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamJaDo&layout=compact&theme=tokyonight)
 
-  [![GamJaDo's github activity graph](https://activity-graph.herokuapp.com/graph?username=GamJaDo&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
+  [![GamJaDo's github activity graph](https://activity-graph.herokuapp.com/graph?username=GamJaDo&theme=monokai)](https://github.com/GamJaDo/github-readme-activity-graph)
 </div>
   
 <h2>𝘽𝘼𝙀𝙆𝙅𝙊𝙊𝙉</h2>
