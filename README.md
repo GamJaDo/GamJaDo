@@ -33,6 +33,7 @@
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamJaDo&layout=compact&theme=tokyonight)
 
+  
   [![GamJaDo's github activity graph](https://activity-graph.herokuapp.com/graph?username=GamJaDo&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
   
