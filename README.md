@@ -24,7 +24,7 @@
   
   <h5> Tools<h5>
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a>&nbsp 
 <br><br>
 
 
