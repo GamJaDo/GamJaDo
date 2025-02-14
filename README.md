@@ -4,7 +4,7 @@
   
   <br><br>
   
-  <h2>🔗 My Skille 🔗</h2>
+  <h2>🔗 Tech 🔗</h2>
   <h5> Languages<h5>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
