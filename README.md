@@ -1,34 +1,79 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGamJaDo%2FVisit_there.git&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hub&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-<div align="center">  
+<div>  
   
   <br><br>
   
-  <h2>🔗 Tech 🔗</h2>
-  <h5> Languages<h5>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/BashSell-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  
-  <h5> Framework<h5> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-    <!--
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-    -->
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
-  
-  <h5> Tools<h5>
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp 
-<br><br>
+  <h2> Tech</h2>
+    <h5> Languages</h5>
+    <div>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp 
+    </div>
+    <div>
+      <h5> Back-end</h5>
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/orcle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/spring actuator-6DB33F?style=for-the-badge&logo=spring actuator&logoColor=white">
+    </div>
+    <div>
+      <h5> Tools</h5>
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql workbench-4479A1?style=for-the-badge&logo=mysql workbench&logoColor=white"/></a>&nbsp
+      </h5>
+    </div>
+    <div>
+      <h5> Infra</h5>
+      <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/zipken-FF703B?style=for-the-badge&logo=zipken&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/ngrinder-E28728?style=for-the-badge&logo=ngrinder&logoColor=white"/></a>&nbsp
+    </div>
+    
+  <br><br>
 
+  <h2> Activity</h2>
+    <div>
+      <h5>
+        강원대 <a href="https://likelion.university/" target="_blank" rel="noopener noreferrer">멋쟁이사자처럼</a> 11기(백엔드) 수료&nbsp&nbsp|&nbsp&nbsp2023.03 - 2023.12
+      </h5>
+      <h5>
+        강원대 <a href="https://likelion.university/" target="_blank" rel="noopener noreferrer">멋쟁이사자처럼</a> 12기(백엔드) 수료&nbsp&nbsp|&nbsp&nbsp2024.03 - 2024.12
+      </h5>
+      <h5>
+        <a href="https://www.kakaotechcampus.com" target="_blank" rel="noopener noreferrer">카카오 테크 캠퍼스</a> 2기(백엔드) 수료&nbsp&nbsp|&nbsp&nbsp2024.04 - 2024.11
+      </h5>
+      <h5>
+         SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
+      </h5>
+    </div>
 
+  <br><br>
+
+  <h2> Project</h2>
+    <div>
+      <h5>
+         멋쟁이 사자처럼 웜업 프로젝트 : <a href="https://github.com/Likelion12-KNU-potato-programmers/GongGamHae_Backend" target="_blank" rel="noopener noreferrer">GongGamHae</a>&nbsp&nbsp|&nbsp&nbsp2024.04 - 2024.04
+      </h5>
+      <h5>
+         카카오 테크 캠퍼스 step3 팀 프로젝트 : <a href="https://github.com/kakao-tech-campus-2nd-step3/Team4_BE" target="_blank" rel="noopener noreferrer">LINKFIT</a>&nbsp&nbsp|&nbsp&nbsp2024.08 - 2024.11
+      </h5>
+      <h5>
+         Moonpd 웹 크롤링 기능 개발 : <a href="https://github.com/GamJaDo/MOONPD_Crawling_Backend" target="_blank" rel="noopener noreferrer">MOONPD_Crawling</a>&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.03
+      </h5>
+      <h5>
+         캡스톤 팀 프로젝트 : <a href="https://github.com/capstone-BinBean/BinBean_BE" target="_blank" rel="noopener noreferrer">BinBean</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
+      </h5>
+      <h5>
+         창업 프로젝트 : 보임(BOIM)&nbsp&nbsp|&nbsp&nbsp2025.04 - 
+      </h5>
+    </div>
 </div>
