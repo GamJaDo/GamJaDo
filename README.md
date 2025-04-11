@@ -1,7 +1,4 @@
 <div>  
-  
-  <br><br>
-  
   <h2> Tech</h2>
     <h5> Languages</h5>
     <div>
