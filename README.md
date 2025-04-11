@@ -36,7 +36,6 @@
       <img src="https://img.shields.io/badge/ngrinder-E28728?style=for-the-badge&logo=ngrinder&logoColor=white"/></a>&nbsp
     </div>
     
-  <br><br>
 
   <h2> Activity</h2>
     <div>
@@ -54,7 +53,6 @@
       </h5>
     </div>
 
-  <br><br>
 
   <h2> Project</h2>
     <div>
