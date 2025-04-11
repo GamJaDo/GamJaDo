@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>&nbsp
-      <img src="https://img.shields.io/badge/zipken-FF703B?style=for-the-badge&logo=zipken&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/zipkin-FF703B?style=for-the-badge&logo=zipkin&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/ngrinder-E28728?style=for-the-badge&logo=ngrinder&logoColor=white"/></a>&nbsp
     </div>
     
