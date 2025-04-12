@@ -16,6 +16,7 @@
       <img src="https://img.shields.io/badge/orcle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/spring actuator-6DB33F?style=for-the-badge&logo=spring actuator&logoColor=white">
+      <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=spring cloud&logoColor=white">
     </div>
     <div>
       <h5> Tool</h5>
