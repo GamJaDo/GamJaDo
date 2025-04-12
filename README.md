@@ -29,7 +29,7 @@
     </div>
     <div>
       <h5> Infra</h5>
-      <img src="https://img.shields.io/badge/amazon webservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>&nbsp
