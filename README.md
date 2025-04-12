@@ -57,7 +57,7 @@
   <h2> Project</h2>
     <div>
       <h5>
-         멋쟁이 사자처럼 웜업 프로젝트 : <a href="https://github.com/Likelion12-KNU-potato-programmers/GongGamHae_Backend" target="_blank" rel="noopener noreferrer">GongGamHae</a>&nbsp&nbsp|&nbsp&nbsp2024.04 - 2024.04
+         멋쟁이사자처럼 웜업 프로젝트 : <a href="https://github.com/Likelion12-KNU-potato-programmers/GongGamHae_Backend" target="_blank" rel="noopener noreferrer">GongGamHae</a>&nbsp&nbsp|&nbsp&nbsp2024.04 - 2024.04
       </h5>
       <h5>
          카카오 테크 캠퍼스 step3 팀 프로젝트 : <a href="https://github.com/kakao-tech-campus-2nd-step3/Team4_BE" target="_blank" rel="noopener noreferrer">LINKFIT</a>&nbsp&nbsp|&nbsp&nbsp2024.08 - 2024.11
