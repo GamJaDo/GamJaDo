@@ -1,6 +1,6 @@
 <div>  
   <h2> Tech</h2>
-    <h5> Languages</h5>
+    <h5> Language</h5>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/spring actuator-6DB33F?style=for-the-badge&logo=spring actuator&logoColor=white">
     </div>
     <div>
-      <h5> Tools</h5>
+      <h5> Tool</h5>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp 
         <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
