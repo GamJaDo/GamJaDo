@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/zipkin-FF703B?style=for-the-badge&logo=zipkin&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/ngrinder-E28728?style=for-the-badge&logo=ngrinder&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>&nbsp
     </div>
     
 
