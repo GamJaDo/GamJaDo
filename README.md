@@ -15,15 +15,15 @@
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/orcle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>&nbsp
-      <img src="https://img.shields.io/badge/spring actuator-6DB33F?style=for-the-badge&logo=spring actuator&logoColor=white">&nbsp
-      <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=spring cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/spring actuator-6DB33F?style=for-the-badge&logo=springactuator&logoColor=white">&nbsp
+      <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white">
     </div>
     <div>
       <h5> Tool</h5>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp 
         <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
-        <img src="https://img.shields.io/badge/mysql workbench-4479A1?style=for-the-badge&logo=mysql workbench&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/mysql workbench-4479A1?style=for-the-badge&logo=mysqlworkbench&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/docker desktop-2496ED?style=for-the-badge&logo=dockerdesktop&logoColor=white"/></a>&nbsp 
       </h5>
     </div>
