@@ -1,6 +1,6 @@
 <div>  
   <h2> Tech</h2>
-    <h5> Language</h5>
+    <h5> Languages</h5>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp 
     </div>
     <div>
-      <h5> Back-end</h5>
+      <h5> Backend</h5>
       <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/orcle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white">
     </div>
     <div>
-      <h5> Tool</h5>
+      <h5> Tools</h5>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp 
         <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
@@ -28,7 +28,7 @@
       </h5>
     </div>
     <div>
-      <h5> Infra</h5>
+      <h5> Infrastructure</h5>
       <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></a>&nbsp 
