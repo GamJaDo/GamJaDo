@@ -72,7 +72,7 @@
          캡스톤 팀 프로젝트 : <a href="https://github.com/capstone-BinBean/BinBean_BE" target="_blank" rel="noopener noreferrer">BinBean</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
       </h5>
       <h5>
-         창업 프로젝트 : 보임(BOIM)&nbsp&nbsp|&nbsp&nbsp2025.04 - 
+         창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
       </h5>
     </div>
 </div>
