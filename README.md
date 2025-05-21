@@ -40,7 +40,7 @@
     </div>
     
 
-  <h2> Activity</h2>
+  <h2> Activities</h2>
     <div>
       <h5>
         강원대 <a href="https://likelion.university/" target="_blank" rel="noopener noreferrer">멋쟁이사자처럼</a> 11기(백엔드) 수료&nbsp&nbsp|&nbsp&nbsp2023.03 - 2023.12
@@ -73,6 +73,13 @@
       </h5>
       <h5>
          창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
+      </h5>
+    </div>
+
+  <h2> Awards</h2>
+    <div>
+      <h5>
+        2025년 강원 창업 탄탄대로 아이디어 경진대회 : KNU창업혁신원장상&nbsp&nbsp|&nbsp&nbsp2025.05.07
       </h5>
     </div>
 </div>
