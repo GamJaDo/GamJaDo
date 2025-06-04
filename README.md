@@ -54,6 +54,9 @@
       <h5>
          SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
       </h5>
+      <h5>
+        강원대학교 <a href="https://ksef.kangwon.ac.kr/board_read.asp?boardCode=notice&blang=&searchBoardField=&searchBoardText=%EB%8F%99%EC%95%84%EB%A6%AC&boardNumber=882&page=3&delMain=&cpSection=" target="_blank" rel="noopener noreferrer">KNU창업혁신원 창업동아리</a> 활동&nbsp&nbsp|&nbsp&nbsp2025.04 -
+      </h5>
     </div>
 
 
