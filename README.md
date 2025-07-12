@@ -50,10 +50,10 @@
          SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
       </h5>
       <h5>
-        2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티 </a>창업 교육 활동&nbsp&nbsp|&nbsp&nbsp2025.07 -
+         SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
       </h5>
       <h5>
-         SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
+        2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티 </a>창업 교육 활동&nbsp&nbsp|&nbsp&nbsp2025.07 -
       </h5>
     </div>
 
