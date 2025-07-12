@@ -50,7 +50,10 @@
          SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
       </h5>
       <h5>
-        강원대학교 <a href="https://ksef.kangwon.ac.kr/board_read.asp?boardCode=notice&blang=&searchBoardField=&searchBoardText=%EB%8F%99%EC%95%84%EB%A6%AC&boardNumber=882&page=3&delMain=&cpSection=" target="_blank" rel="noopener noreferrer">KNU창업혁신원 창업동아리</a> 활동&nbsp&nbsp|&nbsp&nbsp2025.04 -
+        2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티 </a>창업 교육 활동&nbsp&nbsp|&nbsp&nbsp2025.07 -
+      </h5>
+      <h5>
+         SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
       </h5>
     </div>
 
@@ -77,10 +80,13 @@
   <h2> Awards</h2>
     <div>
       <h5>
-        2025년 강원 창업 탄탄대로 아이디어 경진대회 : KNU창업혁신원장상&nbsp&nbsp|&nbsp&nbsp2025.05.07
+        2025년 강원 창업 탄탄대로 아이디어 경진대회 : KNU창업혁신원장상&nbsp&nbsp|&nbsp&nbsp2025.05.07&nbsp&nbsp|&nbsp&nbsp강원대학교 KNU창업혁식원 주최
       </h5>
       <h5>
-        21회 강원의료기기 (GMES 2025)창업경진대회 : 원주의료기기산업진흥원장상&nbsp&nbsp|&nbsp&nbsp2025.06.24
+        21회 강원의료기기 (GMES 2025)창업경진대회 : 원주의료기기산업진흥원장상&nbsp&nbsp|&nbsp&nbsp2025.06.24&nbsp&nbsp|&nbsp&nbsp(재)원주의료기기산업진흥원 주최
+      </h5>
+      <h5>
+        2025년도 대학연대 창업 네트워크 캠프 : 우수상&nbsp&nbsp|&nbsp&nbsp2025.07.08&nbsp&nbsp|&nbsp&nbsp서울대학교 대학연대 지역인재양성 사업단 주최
       </h5>
     </div>
 </div>
