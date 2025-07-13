@@ -49,7 +49,9 @@
       <h5>
          SW국내단기현장실습 인턴쉽(임펙시스 - <a href="https://moonpd.ai/" target="_blank" rel="noopener noreferrer">Moonpd서비스</a> 웹 크롤링 개발)&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.02
       </h5>
-      강원대학교 <a href="https://ksef.kangwon.ac.kr/board_read.asp?boardCode=notice&blang=&searchBoardField=&searchBoardText=%EB%8F%99%EC%95%84%EB%A6%AC&boardNumber=882&page=3&delMain=&cpSection=" target="_blank" rel="noopener noreferrer">KNU창업혁신원 창업동아리</a> 활동&nbsp&nbsp|&nbsp&nbsp2025.04 -
+      <h5>
+        강원대학교 <a href="https://ksef.kangwon.ac.kr/board_read.asp?boardCode=notice&blang=&searchBoardField=&searchBoardText=%EB%8F%99%EC%95%84%EB%A6%AC&boardNumber=882&page=3&delMain=&cpSection=" target="_blank" rel="noopener noreferrer">KNU창업혁신원 창업동아리</a> 활동&nbsp&nbsp|&nbsp&nbsp2025.04 -
+      </h5>
       <h5>
         2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티 </a>창업 교육 활동&nbsp&nbsp|&nbsp&nbsp2025.07 -
       </h5>
@@ -59,7 +61,26 @@
   <h2> Project</h2>
     <div>
       <h5>
-신원 주최
+         멋쟁이사자처럼 웜업 프로젝트 : <a href="https://github.com/Likelion12-KNU-potato-programmers/GongGamHae_Backend" target="_blank" rel="noopener noreferrer">GongGamHae</a>&nbsp&nbsp|&nbsp&nbsp2024.04 - 2024.04
+      </h5>
+      <h5>
+         카카오 테크 캠퍼스 step3 팀 프로젝트 : <a href="https://github.com/kakao-tech-campus-2nd-step3/Team4_BE" target="_blank" rel="noopener noreferrer">LINKFIT</a>&nbsp&nbsp|&nbsp&nbsp2024.08 - 2024.11
+      </h5>
+      <h5>
+         Moonpd 웹 크롤링 기능 개발 : <a href="https://github.com/GamJaDo/MOONPD_Crawling_Backend" target="_blank" rel="noopener noreferrer">MOONPD_Crawling</a>&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.03
+      </h5>
+      <h5>
+         캡스톤 팀 프로젝트 : <a href="https://github.com/capstone-BinBean/BinBean_BE" target="_blank" rel="noopener noreferrer">BinBean</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
+      </h5>
+      <h5>
+         창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
+      </h5>
+    </div>
+
+  <h2> Awards</h2>
+    <div>
+      <h5>
+        2025년 강원 창업 탄탄대로 아이디어 경진대회 : KNU창업혁신원장상&nbsp&nbsp|&nbsp&nbsp2025.05.07&nbsp&nbsp|&nbsp&nbsp강원대학교 KNU창업혁신원 주최
       </h5>
       <h5>
         21회 강원의료기기 (GMES 2025)창업경진대회 : 원주의료기기산업진흥원장상&nbsp&nbsp|&nbsp&nbsp2025.06.24&nbsp&nbsp|&nbsp&nbsp(재)원주의료기기산업진흥원 주최
