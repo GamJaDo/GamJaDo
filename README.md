@@ -70,10 +70,13 @@
          Moonpd 웹 크롤링 기능 개발 : <a href="https://github.com/GamJaDo/MOONPD_Crawling_Backend" target="_blank" rel="noopener noreferrer">MOONPD_Crawling</a>&nbsp&nbsp|&nbsp&nbsp2024.12 - 2025.03
       </h5>
       <h5>
-         캡스톤 팀 프로젝트 : <a href="https://github.com/capstone-BinBean/BinBean_BE" target="_blank" rel="noopener noreferrer">BinBean</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
+         강원대 캡스톤 팀 프로젝트 : <a href="https://github.com/capstone-BinBean/BinBean_BE" target="_blank" rel="noopener noreferrer">BinBean</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
       </h5>
       <h5>
          창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
+      </h5>
+      <h5>
+         관광데이터 활용 공모전 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 
       </h5>
     </div>
 
