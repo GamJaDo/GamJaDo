@@ -78,6 +78,9 @@
       <h5>
          관광데이터 활용 공모전 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 
       </h5>
+      <h5>
+         춘천시 데이터 활용 해커톤 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09.5 - 2025.09.06
+      </h5>
     </div>
 
   <h2> Awards</h2>
