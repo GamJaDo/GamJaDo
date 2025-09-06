@@ -92,7 +92,10 @@
         21회 강원의료기기 (GMES 2025)창업경진대회 : 원주의료기기산업진흥원장상&nbsp&nbsp|&nbsp&nbsp2025.06.24&nbsp&nbsp|&nbsp&nbsp(재)원주의료기기산업진흥원 주최
       </h5>
       <h5>
-        2025년도 대학연대 창업 네트워크 캠프 : 우수상&nbsp&nbsp|&nbsp&nbsp2025.07.08&nbsp&nbsp|&nbsp&nbsp서울대학교 대학연대 지역인재양성 사업단 주최
+        2025년도 대학연대 창업 네트워크 캠프 : 우수상&nbsp&nbsp|&nbsp&nbsp2025.07.08&nbsp&nbsp|&nbsp&nbsp서울대학교 대학연대 지역인재양성 사업단  주최
+      </h5>
+      <h5>
+        2025 춘천시 데이터 활용 해커톤 : 장려상&nbsp&nbsp|&nbsp&nbsp2025.09.06&nbsp&nbsp|&nbsp&nbsp춘천시 주최
       </h5>
     </div>
 </div>
