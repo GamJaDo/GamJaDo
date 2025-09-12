@@ -76,10 +76,10 @@
          창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
       </h5>
       <h5>
-         관광데이터 활용 공모전 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 
+         강원도 서퍼들을 위한 서핑 정보 앱 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 
       </h5>
       <h5>
-         춘천시 데이터 활용 해커톤 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09.5 - 2025.09.06
+         생성형 AI를 활용한 소상공인 광고 판넬 제작 서비스 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09.5 - 
       </h5>
     </div>
 
@@ -96,6 +96,9 @@
       </h5>
       <h5>
         2025 춘천시 데이터 활용 해커톤 : 장려상&nbsp&nbsp|&nbsp&nbsp2025.09.06&nbsp&nbsp|&nbsp&nbsp춘천시 주최
+      </h5>
+      <h5>
+        2025 글로벌 AI 인재양성 챌린지 : 최우수상(강원정보문화산업진흥원장상)&nbsp&nbsp|&nbsp&nbsp2025.09.12&nbsp&nbsp|&nbsp&nbsp강릉과학산업진흥원 주최
       </h5>
     </div>
 </div>
