@@ -76,7 +76,7 @@
          창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
       </h5>
       <h5>
-         강원도 서퍼들을 위한 서핑 정보 앱 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 
+         강원도 서퍼들을 위한 서핑 정보 앱 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 2025.09
       </h5>
       <h5>
          생성형 AI를 활용한 소상공인 광고 판넬 제작 서비스 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09.5 - 
