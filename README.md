@@ -11,7 +11,7 @@
       <h5> Backend</h5>
       <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/orcle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white">&nbsp
       <br>
