@@ -14,6 +14,9 @@
       <img src="https://img.shields.io/badge/orcle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white">&nbsp
+      <br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp
     </div>
     <div>
       <h5> IDE</h5>
