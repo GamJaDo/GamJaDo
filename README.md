@@ -100,5 +100,8 @@
       <h5>
         2025 글로벌 AI 인재양성 챌린지 : 최우수상(강원정보문화산업진흥원장상)&nbsp&nbsp|&nbsp&nbsp2025.09.12&nbsp&nbsp|&nbsp&nbsp과학기술정보통신부, 강원특별자치도 주최
       </h5>
+      <h5>
+        강원대학교 창업 AI+X 해커톤 GIANT 2025 : 특별상&nbsp&nbsp|&nbsp&nbsp2025.09.23&nbsp&nbsp|&nbsp&nbsp강원대학교 주최
+      </h5>
     </div>
 </div>
