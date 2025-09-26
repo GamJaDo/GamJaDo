@@ -11,12 +11,13 @@
       <h5> Backend</h5>
       <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white">&nbsp
       <br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>&nbsp
     </div>
     <div>
       <h5> IDE</h5>
@@ -79,7 +80,7 @@
          강원도 서퍼들을 위한 서핑 정보 앱 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 2025.09
       </h5>
       <h5>
-         생성형 AI를 활용한 소상공인 광고 판넬 제작 서비스 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09.5 - 
+         생성형 AI를 활용한 소상공인 광고 판넬 제작 서비스 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09 - 2025.09
       </h5>
     </div>
 
