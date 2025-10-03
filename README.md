@@ -39,7 +39,7 @@
          캡스톤 팀 프로젝트 : <a href="https://github.com/capstone-BinBean/BinBean_BE" target="_blank" rel="noopener noreferrer">BinBean</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
       </h5>
       <h5>
-         창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.04 - 
+         창업 프로젝트 : <a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>&nbsp&nbsp|&nbsp&nbsp2025.03 - 
       </h5>
       <h5>
          강원도 서퍼들을 위한 서핑 정보 앱 : <a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>&nbsp&nbsp|&nbsp&nbsp2025.07 - 2025.09
