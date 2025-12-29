@@ -17,7 +17,7 @@
         강원대학교 <a href="https://ksef.kangwon.ac.kr/board_read.asp?boardCode=notice&blang=&searchBoardField=&searchBoardText=%EB%8F%99%EC%95%84%EB%A6%AC&boardNumber=882&page=3&delMain=&cpSection=" target="_blank" rel="noopener noreferrer">KNU창업혁신원 창업동아리</a> 활동 『2025 학생 창업유망팀 U300+ 경진대회 성장트랙 최종 선정』&nbsp&nbsp|&nbsp&nbsp2025.04 -
       </h5>
       <h5>
-        2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티 </a>창업 교육 활동 『강원권역 우수팀 선정』&nbsp&nbsp|&nbsp&nbsp2025.07 -
+        2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티 </a>창업 교육 활동 『강원권역 우수팀 선정』&nbsp&nbsp|&nbsp&nbsp2025.07 - 2025.12
       </h5>
     </div>
 
@@ -41,6 +41,9 @@
       </h5>
       <h5>
          생성형 AI를 활용한 소상공인 광고 판넬 제작 서비스 : <a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>&nbsp&nbsp|&nbsp&nbsp2025.09 - 2025.09
+      </h5>
+      <h5>
+         주식 시뮬레이션 웹 게임 : <a href="https://github.com/DahnTa/DahnTa_BE" target="_blank" rel="noopener noreferrer">DahnTa</a>&nbsp&nbsp|&nbsp&nbsp2025.11 - 2025.12
       </h5>
     </div>
 
