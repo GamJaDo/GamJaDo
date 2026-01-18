@@ -1,9 +1,10 @@
-<div>  
+<div>
   
 ### Tech
 | MAIN TOOLS |
 | ------- |
 | <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/> <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/> <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/> |
+<br>
 
 ### Activities
 
@@ -13,6 +14,7 @@
 | **2024.12 - 2025.02** | **SW국내단기현장실습 <a href="https://www.impacsys.co.kr/Home/index" target="_blank" rel="noopener noreferrer">임펙시스</a> 인턴쉽** |  |
 | **2025.04 -** | **강원대학교 <a href="https://ksef.kangwon.ac.kr/board_read.asp?boardCode=notice&blang=&searchBoardField=&searchBoardText=%EB%8F%99%EC%95%84%EB%A6%AC&boardNumber=882&page=3&delMain=&cpSection=" target="_blank" rel="noopener noreferrer">KNU창업혁신원 창업동아리</a> 활동** | **2025 학생 창업유망팀 U300+ 경진대회 성장트랙 최종 선정** |
 | **2025.07 - 2025.12** | **2025 <a href="https://www.hanapoweron.com/social/produce=" target="_blank" rel="noopener noreferrer">하나 소셜벤처 유니버시티</a> 창업 교육 활동** | **강원권역 우수팀 선정** |
+<br>
 
 ### Project
 
@@ -24,6 +26,7 @@
 | **2025.07 - 2025.09** | **2025 관광데이터 활용 공모전** | **<a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>** |
 | **2025.09 - 2025.09** | **2025 춘천시 데이터 활용 해커톤 <br> 2025 글로벌 AI 인재양성 챌린지 <br> 강원대학교 창업 AI+X 해커톤 GIANT 2025** | **<a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>** |
 | **2025.11 - 2025.12** | **구글캠퍼스 교과목** | **<a href="https://github.com/DahnTa/DahnTa_BE" target="_blank" rel="noopener noreferrer">DahnTa</a>** |
+<br>
 
 ### Awards
 
