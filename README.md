@@ -24,7 +24,7 @@
 | **2024.12 - 2025.03** | **인턴쉽, Moonpd 웹 크롤링 기능 개발** | **<a href="https://github.com/GamJaDo/MOONPD_Crawling_Backend" target="_blank" rel="noopener noreferrer">MOONPD_Crawling</a>** |
 | **2025.03 -** | **창업 프로젝트** | **<a href="https://github.com/KNUBOIM" target="_blank" rel="noopener noreferrer">보임(BOIM)</a>** |
 | **2025.07 - 2025.09** | **2025 관광데이터 활용 공모전** | **<a href="https://github.com/Surfing-The-Gangwon" target="_blank" rel="noopener noreferrer">Surfing The Gangwon</a>** |
-| **2025.09 - 2025.09** | **2025 춘천시 데이터 활용 해커톤 <br> 2025 글로벌 AI 인재양성 챌린지 <br> 강원대학교 창업 AI+X 해커톤 GIANT 2025** | **<a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>** |
+| **2025.09 - 2025.09** | **2025 춘천시 데이터 활용 해커톤 <br> 2025 글로벌 AI 인재양성 챌린지(해커톤) <br> 강원대학교 창업 AI+X 해커톤 GIANT 2025** | **<a href="https://github.com/Stan-dup/backend" target="_blank" rel="noopener noreferrer">StandUp</a>** |
 | **2025.11 - 2025.12** | **구글캠퍼스 교과목** | **<a href="https://github.com/DahnTa" target="_blank" rel="noopener noreferrer">DahnTa</a>** |
 <br>
 
